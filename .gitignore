@@ -1,0 +1,51 @@
+# Sub-repositories — each is tracked independently on GitHub.
+# This umbrella repo only carries the index README; do NOT commit
+# the sub-repos as embedded git directories.
+/lab1/
+/lab2/
+/lab3/
+/lab4/
+/lab5/
+/btl/
+
+# Private / confidential materials — never push to a public repo
+*.pdf
+*.docx
+*.mp4
+*.mkv
+*.mov
+
+# Build artifacts (STM32CubeIDE / GCC ARM)
+Debug/
+Release/
+build/
+dist/
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.su
+*.map
+*.lst
+
+# STM32CubeIDE / Eclipse per-machine state
+.metadata/
+.settings/
+*.launch
+
+# IDE per-user
+.vscode/
+.idea/
+*.code-workspace
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Backups / temp
+*.bak
+*.tmp
+*.orig
+*~
