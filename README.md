@@ -15,7 +15,7 @@ This is an **index repository** for the course *Microprocessors & Microcontrolle
 | Lab 3 | Traffic light FSM with debounced buttons (F103C6) | [STM32_LAB_3](https://github.com/NgqvngVinh/STM32_LAB_3) | [`lab3/`](lab3/) |
 | Lab 4 | RTOS-style scheduler on STM32 | [STM32_LAB_4](https://github.com/NgqvngVinh/STM32_LAB_4) | [`lab4/`](lab4/) |
 | Lab 5 | UART communication protocol with timeout & retransmit | [Microcontroller-Microprocessor_Lab5](https://github.com/NgqvngVinh/Microcontroller-Microprocessor_Lab5) | [`lab5/`](lab5/) |
-| BTL | Final project: traffic-light system on STM32F103RB with LCD16x2 | [TrafficLight_LCD_STM32rb](https://github.com/NgqvngVinh/TrafficLight_LCD_STM32rb) | [`btl/`](btl/) |
+| Assignment | Final project: traffic-light system on STM32F103RB with LCD16x2 | [TrafficLight_LCD_STM32rb](https://github.com/NgqvngVinh/TrafficLight_LCD_STM32rb) | [`btl/`](btl/) |
 
 Each sub-folder is its own independent git repository. See the README inside each folder for full hardware, build, and run instructions.
 
