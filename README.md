@@ -4,7 +4,7 @@
   <i>HCMUT · Semester 241 (3rd year) · STM32F1 family with STM32CubeIDE + Proteus simulation</i>
 </p>
 
-This is an **index repository** for the course *Microprocessors & Microcontrollers* (Vi xử lý — Vi điều khiển) at Ho Chi Minh City University of Technology (HCMUT). Each lab and the final project lives in its own dedicated GitHub repository — clone whichever one you need.
+This is an **index repository** for the course *Microprocessors & Microcontrollers* at Ho Chi Minh City University of Technology (HCMUT). Each lab and the final project lives in its own dedicated GitHub repository — clone whichever one you need.
 
 ## Labs & Final project
 
@@ -42,10 +42,6 @@ git clone https://github.com/NgqvngVinh/STM32_LAB_4.git lab4
 git clone https://github.com/NgqvngVinh/Microcontroller-Microprocessor_Lab5.git lab5
 git clone https://github.com/NgqvngVinh/TrafficLight_LCD_STM32rb.git btl
 ```
-
-## Author
-
-**Nguyễn Quang Vinh** — _TBD_ (electives, contact, etc.)
 
 ## License
 
