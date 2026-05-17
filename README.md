@@ -12,10 +12,10 @@ This is an **index repository** for the course *Microprocessors & Microcontrolle
 |---|---|---|---|
 | Lab 1 | GPIO, LED blink, 7-segment display (STM32F100C6Tx) | [STM32_LAB_1](https://github.com/NgqvngVinh/STM32_LAB_1) | [`lab1/`](lab1/) |
 | Lab 2 | Hardware & software timer, 7-segment clock | [STM32_LAB_2](https://github.com/NgqvngVinh/STM32_LAB_2) | [`lab2/`](lab2/) |
-| Lab 3 | Traffic light FSM with debounced buttons (F103C6) | [STM32_LAB_3](https://github.com/NgqvngVinh/STM32_LAB_3) | [`lab3/`](lab3/) |
-| Lab 4 | RTOS-style scheduler on STM32 | [STM32_LAB_4](https://github.com/NgqvngVinh/STM32_LAB_4) | [`lab4/`](lab4/) |
-| Lab 5 | UART communication protocol with timeout & retransmit | [Microcontroller-Microprocessor_Lab5](https://github.com/NgqvngVinh/Microcontroller-Microprocessor_Lab5) | [`lab5/`](lab5/) |
-| Assignment | Final project: traffic-light system on STM32F103RB with LCD16x2 | [TrafficLight_LCD_STM32rb](https://github.com/NgqvngVinh/TrafficLight_LCD_STM32rb) | [`btl/`](btl/) |
+| Lab 3 | Traffic light FSM with debounced buttons (F103C6) | [Traffic-light-STM32F103C6](https://github.com/NgqvngVinh/Traffic-light-STM32F103C6) | [`lab3/`](lab3/) |
+| Lab 4 | Cooperative scheduler on STM32F103C6 | [Cooperative-scheduler-STM32F103C6](https://github.com/NgqvngVinh/Cooperative-scheduler-STM32F103C6) | [`lab4/`](lab4/) |
+| Lab 5 | UART communication protocol with timeout & retransmit | [STM32F103C6-UART-Protocol](https://github.com/NgqvngVinh/STM32F103C6-UART-Protocol) | [`lab5/`](lab5/) |
+| Assignment | Final project: traffic-light system on STM32F103RB with LCD16x2 | [Embedded-Traffic-Light-System-STM32F103RB2](https://github.com/NgqvngVinh/Embedded-Traffic-Light-System-STM32F103RB2) | [`btl/`](btl/) |
 
 Each sub-folder is its own independent git repository. See the README inside each folder for full hardware, build, and run instructions.
 
@@ -37,10 +37,10 @@ To check out all six repositories side-by-side under this folder layout:
 ```bash
 git clone https://github.com/NgqvngVinh/STM32_LAB_1.git lab1
 git clone https://github.com/NgqvngVinh/STM32_LAB_2.git lab2
-git clone https://github.com/NgqvngVinh/STM32_LAB_3.git lab3
-git clone https://github.com/NgqvngVinh/STM32_LAB_4.git lab4
-git clone https://github.com/NgqvngVinh/Microcontroller-Microprocessor_Lab5.git lab5
-git clone https://github.com/NgqvngVinh/TrafficLight_LCD_STM32rb.git btl
+git clone https://github.com/NgqvngVinh/Traffic-light-STM32F103C6.git lab3
+git clone https://github.com/NgqvngVinh/Cooperative-scheduler-STM32F103C6.git lab4
+git clone https://github.com/NgqvngVinh/STM32F103C6-UART-Protocol.git lab5
+git clone https://github.com/NgqvngVinh/Embedded-Traffic-Light-System-STM32F103RB2.git btl
 ```
 
 ## License
